@@ -1,0 +1,41 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Hospitalization">
+      <id>0</id>
+      <signature>false</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <hospitalId>0</hospitalId>
+      <ward>1</ward>
+      <status>DISCHARGED</status>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Hospitalization">
+      <id>1</id>
+      <signature>false</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <hospitalId>0</hospitalId>
+      <ward>1</ward>
+      <status>HOSPITALIZED</status>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Hospitalization">
+      <id>2</id>
+      <signature>false</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <hospitalId>0</hospitalId>
+      <ward>1</ward>
+      <status>HOSPITALIZED</status>
+   </object>
+</main>

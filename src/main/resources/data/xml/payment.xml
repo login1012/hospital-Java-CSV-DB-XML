@@ -1,0 +1,50 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Payment">
+      <id>1</id>
+      <signature>true</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <number>777</number>
+      <price>1000</price>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Payment">
+      <id>0</id>
+      <signature>false</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <number>456</number>
+      <price>1100</price>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Payment">
+      <id>2</id>
+      <signature>true</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <number>1234</number>
+      <price>1000</price>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Payment">
+      <id>3</id>
+      <signature>true</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <number>888</number>
+      <price>500</price>
+   </object>
+</main>

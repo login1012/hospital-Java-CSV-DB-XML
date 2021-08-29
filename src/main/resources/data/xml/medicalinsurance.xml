@@ -1,0 +1,26 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.MedicalInsurance">
+      <id>0</id>
+      <signature>false</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <number>123</number>
+      <reimbursement>1100</reimbursement>
+   </object>
+   <object class="ru.sfedu.hospital.bean.MedicalInsurance">
+      <id>1</id>
+      <signature>false</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <number>1234</number>
+      <reimbursement>1000</reimbursement>
+   </object>
+</main>

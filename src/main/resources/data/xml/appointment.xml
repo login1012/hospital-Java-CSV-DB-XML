@@ -1,0 +1,14 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Appointment">
+      <id>0</id>
+      <patientId>0</patientId>
+      <doctorId>0</doctorId>
+      <status>APPOINTED</status>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <specialization>Heartache</specialization>
+   </object>
+</main>

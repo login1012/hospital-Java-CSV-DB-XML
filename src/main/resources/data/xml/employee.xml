@@ -1,0 +1,16 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Employee">
+      <id>1</id>
+      <name>Name</name>
+      <phone>7900123</phone>
+      <specialty>Anything</specialty>
+      <competence>Something</competence>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Employee">
+      <id>0</id>
+      <name>Name</name>
+      <phone>7900123</phone>
+      <specialty>Anything</specialty>
+      <competence>Something</competence>
+   </object>
+</main>

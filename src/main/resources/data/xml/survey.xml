@@ -1,0 +1,28 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Survey">
+      <id>0</id>
+      <patientId>0</patientId>
+      <doctorId>0</doctorId>
+      <status>MEDICALTEST</status>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <type>Ultrasound</type>
+      <report>Health</report>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Survey">
+      <id>1</id>
+      <patientId>0</patientId>
+      <doctorId>0</doctorId>
+      <status>MEDICALTEST</status>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <type>Ultrasound</type>
+      <report>Health</report>
+   </object>
+</main>
