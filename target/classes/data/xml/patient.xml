@@ -1,0 +1,9 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Patient">
+      <id>0</id>
+      <name>Name</name>
+      <phone>7900123</phone>
+      <passport>07AB</passport>
+      <allergy>Penicillin</allergy>
+   </object>
+</main>

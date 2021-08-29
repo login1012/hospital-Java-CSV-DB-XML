@@ -1,0 +1,12 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Hospital">
+      <id>1</id>
+      <name>Name</name>
+      <wardsNumber>5</wardsNumber>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Hospital">
+      <id>0</id>
+      <name>Name</name>
+      <wardsNumber>5</wardsNumber>
+   </object>
+</main>

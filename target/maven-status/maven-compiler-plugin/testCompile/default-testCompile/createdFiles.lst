@@ -1,0 +1,5 @@
+ru\sfedu\hospital\MainTest.class
+ru\sfedu\hospital\TestBase.class
+api\DataProviderDBTest.class
+api\DataProviderCSVTest.class
+api\DataProviderXMLTest.class

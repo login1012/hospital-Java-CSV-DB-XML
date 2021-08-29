@@ -1,0 +1,28 @@
+<main>
+   <object class="ru.sfedu.hospital.bean.Diagnosis">
+      <id>1</id>
+      <signature>false</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <patientId>0</patientId>
+      <diagnosis>Neurosis</diagnosis>
+      <medicine>Sedatives</medicine>
+   </object>
+   <object class="ru.sfedu.hospital.bean.Diagnosis">
+      <id>0</id>
+      <signature>true</signature>
+      <serviceId>0</serviceId>
+      <day>14</day>
+      <month>0</month>
+      <year>2021</year>
+      <hour>11</hour>
+      <minute>0</minute>
+      <patientId>0</patientId>
+      <diagnosis>Neurosis</diagnosis>
+      <medicine>Sedatives</medicine>
+   </object>
+</main>
